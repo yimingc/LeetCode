@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484442534 source:/home/yiming/workspace/LeetCode/PlayerSort/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
